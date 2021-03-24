@@ -10,4 +10,4 @@ Reasons to use RDD:-
     4.You don’t care about imposing a schema, such as columnar format while processing or accessing data attributes by name or column; and
     5.You can forgo some optimization and performance benefits available with DataFrames and Datasets for structured and semi-structured data.
 
-![alt-text]()
+![alt-text](https://github.com/Abhishek010397/Spark/blob/master/architecture.png)
